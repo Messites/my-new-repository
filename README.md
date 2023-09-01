@@ -1,1 +1,1 @@
-# My New Repository
+second method to use Git/GitHub
